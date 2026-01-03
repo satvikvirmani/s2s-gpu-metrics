@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+
+numpy
+scipy
+scikit-image
+opencv-python-headless
+imageio
+lazy_loader
+
+torch
+torchvision
+lpips
+
+networkx
+websockets
